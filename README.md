@@ -21,7 +21,11 @@ check both Excel & CSV files (google_maps_data) to see how final data will look 
 ### Multiple searches at once
 1. Add searches in `input.txt`, each search should be in a new line as shown in the example (check `input.txt`)
 2. Then run: `python3 main.py` 
-3. If you pass `-t=<how many>` it will be applied to all the searches. 
+3. If you pass `-t=<how many>` it will be applied to all the searches.
+
+## Disclaimer
+This code is proprietary and is not allowed to be copied, distributed, or modified without explicit permission from the author. Unauthorized use may result in legal action.
+
 
 ## Tips:
 If you want to search more than the limited 120 results, detail you search more and as granular as you need it to be in the `input.txt`, for example:
